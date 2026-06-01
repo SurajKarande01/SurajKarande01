@@ -114,12 +114,12 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajKarande01&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKarande01&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SurajKarande01&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SurajKarande01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SurajKarande01&icon=5&color=1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SurajKarande01&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 <p align="center">
