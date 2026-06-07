@@ -114,8 +114,8 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 |--------|-------------|------|-------|
 | **B.Tech – Computer Science & Technology** | Dept. of Technology, Shivaji University, Kolhapur | 2021–2025 | CGPA: 6.85/10 |
 | **HSC (12th Science)** | Ligade Patil Junior College of Science, Karad | 2021 | 85.67% |
-| **SSC (10th)** | Balwadi Highschool, Sangole | 2019 | 82.80% |
+| **SSC (10th)** | Balwadi High School, Balwadi | 2019 | 82.80% |
 
 ---
 
