@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Karande;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Karande;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -56,7 +56,7 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Feasto – E-Commerce Food Platform](https://github.com/SurajKarande01)
+### 🍽️ [Feasto – E-Commerce Food Platform](https://github.com/SurajKarande01/feasto)
 > A full-stack food ordering and delivery web application
 
 **Tech Stack:** `Java 17` `Spring Boot` `React.js` `Tailwind CSS` `Hibernate` `MySQL` `REST APIs` `Microservices` `JWT`
@@ -67,7 +67,7 @@ Results-driven **Java Full Stack Developer** with hands-on experience architecti
 
 ---
 
-### 🎓 [SAMS Track – Student Attendance Management System](https://github.com/SurajKarande01)
+### 🎓 [SAMS Track – Student Attendance Management System](https://github.com/SurajKarande01/SAMS-track)
 > A robust, role-based attendance management system for educational institutions
 
 **Tech Stack:** `Java 17` `Spring Boot` `Spring Security` `React.js` `MySQL` `REST APIs` `JWT`
