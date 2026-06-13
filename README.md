@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github_profile_banner.png" alt="Suraj Karande Profile Banner" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Suraj+Karande;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js" alt="Typing SVG" />
 </h1>
