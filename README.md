@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="github_profile_banner.png" alt="Suraj Karande Profile Banner" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Suraj+Karande;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Suraj+Karande;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -62,6 +66,12 @@ I'm not pretending to be a senior engineer. I'm a fresher who writes clean code,
 
 ### 🔐 [Auth App — Full-Stack Authentication Platform](https://github.com/SurajKarande01/Auth_App)
 
+<p align="left">
+  <a href="https://github.com/SurajKarande01/Auth_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=Auth_App&theme=tokyonight&show_owner=false" alt="Auth_App Card" />
+  </a>
+</p>
+
 A complete auth system with login, registration, OAuth2 social login, and an admin panel — built to understand how real authentication works end to end.
 
 `Java 17` `Spring Boot 3.5` `Spring Security 6` `JWT` `OAuth2` `React 19` `Vite` `Tailwind CSS 4` `MySQL` `Docker`
@@ -76,6 +86,12 @@ A complete auth system with login, registration, OAuth2 social login, and an adm
 
 ### 🍽️ [Feasto — Food Ordering & Delivery Platform](https://github.com/SurajKarande01/feasto)
 
+<p align="left">
+  <a href="https://github.com/SurajKarande01/feasto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=feasto&theme=tokyonight&show_owner=false" alt="Feasto Card" />
+  </a>
+</p>
+
 A full-stack food delivery app with three separate portals — customers order food, restaurants manage menus and orders, delivery riders handle pickups and drop-offs.
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `React.js` `Redux Toolkit` `Tailwind CSS` `MySQL` `WebSockets` `Leaflet Maps`
@@ -89,6 +105,12 @@ A full-stack food delivery app with three separate portals — customers order f
 
 ### 🎓 [SAMS Track — Student Attendance Management System](https://github.com/SurajKarande01/SAMS-track)
 
+<p align="left">
+  <a href="https://github.com/SurajKarande01/SAMS-track">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=SAMS-track&theme=tokyonight&show_owner=false" alt="SAMS Track Card" />
+  </a>
+</p>
+
 A role-based attendance system for colleges — admins manage users, faculty marks attendance, students view their records.
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL`
@@ -101,6 +123,12 @@ A role-based attendance system for colleges — admins manage users, faculty mar
 
 ### 🌿 [Plant Disease Detection](https://github.com/SurajKarande01/plant_disease_detection) *(Academic)*
 
+<p align="left">
+  <a href="https://github.com/SurajKarande01/plant_disease_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=plant_disease_detection&theme=tokyonight&show_owner=false" alt="Plant Disease Detection Card" />
+  </a>
+</p>
+
 CNN-based image classifier that identifies plant diseases from leaf photos. Built as a final year academic project.
 
 `Python` `TensorFlow` `CNN` `OpenCV` `NumPy` `Pandas`
@@ -109,7 +137,15 @@ CNN-based image classifier that identifies plant diseases from leaf photos. Buil
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajKarande01&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -120,10 +156,14 @@ CNN-based image classifier that identifies plant diseases from leaf photos. Buil
   <img src="https://streak-stats.demolab.com?user=SurajKarande01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajKarande01&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SurajKarande01&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SurajKarande01&label=PROFILE+VIEWS&style=flat-square&color=F7A800" alt="Profile Views"/>
 </p>
 
 <p align="center">
