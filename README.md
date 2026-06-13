@@ -133,14 +133,6 @@ CNN-based image classifier that identifies plant diseases from leaf photos. Buil
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajKarande01&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
