@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📞 +91-7709328550 &nbsp;|&nbsp; 📍 Pune, Maharashtra, India &nbsp;|&nbsp; 📧 surajdkarande6396@gmail.com
+  📍 Pune, Maharashtra, India
 </p>
 
 ---
