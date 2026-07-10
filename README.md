@@ -6,6 +6,7 @@
   <a href="https://linkedin.com/in/surajk0001"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:surajdkarande6396@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/SurajKarande01"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://suraj-karande-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23F7A800.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -18,6 +19,7 @@ I graduated in **Computer Science from Shivaji University** (2025) and spent the
 
 I'm not pretending to be a senior engineer. I'm a fresher who writes clean code, understands how backend and frontend connect, and picks things up fast. That's what I bring to a team.
 
+- 🌐 **Portfolio:** [suraj-karande-portfolio.vercel.app](https://suraj-karande-portfolio.vercel.app/)
 - 🔨 **Currently building:** Improving my projects with tests, CI/CD, and deployments
 - 🧠 **Learning next:** Docker in production, system design fundamentals
 - 📍 **Location:** Pune, Maharashtra, India
