@@ -136,8 +136,8 @@ Convolutional Neural Network (CNN) designed to detect plant diseases from leaf i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
