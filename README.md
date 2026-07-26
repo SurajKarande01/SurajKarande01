@@ -13,17 +13,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Java Full Stack Developer** from Pune, India — fresh out of college and hungry to build things that work.
+Hi! I'm a **Java Full Stack Developer** based in Pune, India. I specialize in crafting backend services with **Spring Boot** and pair them with dynamic frontend applications using **React.js**.
 
-I graduated in **Computer Science from Shivaji University** (2025) and spent the last several months going deep into **Spring Boot**, **React.js**, and **REST API design**. I learn best by building, so I've been shipping full-stack apps — auth systems with OAuth2, food delivery platforms with multi-role dashboards, and attendance management tools with RBAC.
-
-I'm not pretending to be a senior engineer. I'm a fresher who writes clean code, understands how backend and frontend connect, and picks things up fast. That's what I bring to a team.
+I graduated in **Computer Science from Shivaji University (2025)**. I focus on building practical, production-ready software—designing clean REST APIs, implementing secure OAuth2 & JWT auth, building multi-role dashboard systems, and writing maintainable code across the stack.
 
 - 🌐 **Portfolio:** [suraj-karande-portfolio.vercel.app](https://suraj-karande-portfolio.vercel.app/)
-- 🔨 **Currently building:** Improving my projects with tests, CI/CD, and deployments
-- 🧠 **Learning next:** Docker in production, system design fundamentals
+- 🔨 **Currently Building:** Adding test suites, CI/CD pipelines, and cloud deployments across my projects
+- 🧠 **Learning Next:** Production Docker containerization and System Design concepts
 - 📍 **Location:** Pune, Maharashtra, India
-- 📫 **Reach me:** [surajdkarande6396@gmail.com](mailto:surajdkarande6396@gmail.com)
+- 📫 **Reach Me:** [surajdkarande6396@gmail.com](mailto:surajdkarande6396@gmail.com)
 
 ---
 
@@ -66,19 +64,19 @@ I'm not pretending to be a senior engineer. I'm a fresher who writes clean code,
 
 <p align="left">
   <a href="https://github.com/SurajKarande01/Auth_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=Auth_App&theme=tokyonight&show_owner=false" alt="Auth_App Card" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=SurajKarande01&repo=Auth_App&theme=tokyonight&show_owner=false" alt="Auth_App Card" />
   </a>
 </p>
 
-A complete auth system with login, registration, OAuth2 social login, and an admin panel — built to understand how real authentication works end to end.
+Full-stack authentication system with JWT management, social sign-in, and granular admin controls.
 
 `Java 17` `Spring Boot 3.5` `Spring Security 6` `JWT` `OAuth2` `React 19` `Vite` `Tailwind CSS 4` `MySQL` `Docker`
 
-- **JWT auth** with access/refresh token rotation and HttpOnly cookie transport
-- **Google & GitHub OAuth2** social login with automatic account linking
-- **Admin panel** with user management, role/permission assignment, and audit logging
-- **RBAC system** with 5 roles and 7 granular permissions
-- **Swagger UI** API documentation and multi-stage Docker setup
+- **JWT Authentication:** Access/refresh token rotation using secure HttpOnly cookies
+- **Social OAuth2:** Integrated Google & GitHub sign-in with automatic user profile linking
+- **Admin Dashboard:** Role & permission management, user status toggles, and audit logging
+- **RBAC System:** Fine-grained authorization model with 5 roles and 7 specific permissions
+- **API & DevOps:** Swagger UI documentation and multi-stage Docker builds
 
 ---
 
@@ -86,18 +84,18 @@ A complete auth system with login, registration, OAuth2 social login, and an adm
 
 <p align="left">
   <a href="https://github.com/SurajKarande01/feasto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=feasto&theme=tokyonight&show_owner=false" alt="Feasto Card" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=SurajKarande01&repo=feasto&theme=tokyonight&show_owner=false" alt="Feasto Card" />
   </a>
 </p>
 
-A full-stack food delivery app with three separate portals — customers order food, restaurants manage menus and orders, delivery riders handle pickups and drop-offs.
+Food delivery application with dedicated portals for customers, restaurant owners, and delivery partners.
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `React.js` `Redux Toolkit` `Tailwind CSS` `MySQL` `WebSockets` `Leaflet Maps`
 
-- **Three user roles** (Customer, Restaurant Owner, Delivery Rider) each with their own dashboard
-- **Real-time order tracking** with WebSocket push updates and interactive Leaflet maps
-- **Restaurant discovery** with filtering by cuisine, rating, and availability
-- **Live order state machine** — orders flow from PLACED → ACCEPTED → PREPARING → OUT_FOR_DELIVERY → DELIVERED
+- **Multi-Role Portals:** Tailored user interfaces for Customers, Restaurant Owners, and Delivery Drivers
+- **Real-Time Tracking:** WebSocket-powered order status updates and live Leaflet map visualization
+- **Restaurant Discovery:** Menu browsing with cuisine categories, ratings, and live availability filters
+- **Order Lifecycle:** State machine logic handling orders from PLACED → ACCEPTED → PREPARING → OUT_FOR_DELIVERY → DELIVERED
 
 ---
 
@@ -105,17 +103,17 @@ A full-stack food delivery app with three separate portals — customers order f
 
 <p align="left">
   <a href="https://github.com/SurajKarande01/SAMS-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=SAMS-track&theme=tokyonight&show_owner=false" alt="SAMS Track Card" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=SurajKarande01&repo=SAMS-track&theme=tokyonight&show_owner=false" alt="SAMS Track Card" />
   </a>
 </p>
 
-A role-based attendance system for colleges — admins manage users, faculty marks attendance, students view their records.
+Attendance recording and tracking system designed for academic institutions.
 
 `Java 17` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL`
 
-- **Three roles** (Admin, Faculty, Student) with Spring Security + JWT access control
-- **Automated attendance logging** replacing manual entry workflows
-- **Optimized MySQL queries** for fast data retrieval across large student datasets
+- **Access Control:** Role-based security for Admin, Faculty, and Student workflows
+- **Automated Tracking:** Digital attendance sheets replacing traditional manual registers
+- **Database Performance:** Optimized SQL queries for fast report generation over historical attendance data
 
 ---
 
@@ -123,23 +121,23 @@ A role-based attendance system for colleges — admins manage users, faculty mar
 
 <p align="left">
   <a href="https://github.com/SurajKarande01/plant_disease_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKarande01&repo=plant_disease_detection&theme=tokyonight&show_owner=false" alt="Plant Disease Detection Card" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=SurajKarande01&repo=plant_disease_detection&theme=tokyonight&show_owner=false" alt="Plant Disease Detection Card" />
   </a>
 </p>
 
-CNN-based image classifier that identifies plant diseases from leaf photos. Built as a final year academic project.
+Convolutional Neural Network (CNN) designed to detect plant diseases from leaf imagery.
 
 `Python` `TensorFlow` `CNN` `OpenCV` `NumPy` `Pandas`
 
-- Achieved **95% accuracy** on the test dataset for disease classification from leaf imagery
+- Achieved **95% accuracy** on test dataset for multi-class plant disease identification
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=SurajKarande01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=SurajKarande01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -157,5 +155,5 @@ CNN-based image classifier that identifies plant diseases from leaf photos. Buil
 </p>
 
 <p align="center">
-  <i>Fresher, not finished. Building every day.</i>
+  <i>Constantly building and improving every day.</i>
 </p>
